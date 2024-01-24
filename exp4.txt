@@ -2,3 +2,5 @@ main()
 {
 printf("good moring")
 }
+printf("hi")
+
